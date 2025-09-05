@@ -8,9 +8,9 @@ import { initializeApp } from 'firebase/app';
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: 'mern-blog-b327f.firebaseapp.com',
-  projectId: 'mern-blog-b327f',
+  projectId: 'mern-blog-6e861',
   storageBucket: 'mern-blog-b327f.appspot.com',
-  messagingSenderId: '699397991367',
+  messagingSenderId: '491656146773',
   appId: '1:699397991367:web:88ff565ef72a182d6b87e2',
 };
 
